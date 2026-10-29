@@ -1,2 +1,1 @@
-# bulkauto-releases
-Installers for BulkAuto
+BulkAuto installers. Copyright © 2026 Logan Noble. All rights reserved. BulkAuto is proprietary software; use is governed by the License Agreement at https://logcnoble-netizen.github.io/qbo-time-tool-legal/eula/. No other license is granted.
